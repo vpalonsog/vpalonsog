@@ -1,16 +1,18 @@
-### Hi there 👋
+Vanessa Paola —@vpalonsog
 
-<!--
-**vpalonsog/vpalonsog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋. Iam Frontend Developer and Platzi Master student. Currently Im developing Projects using Javascript Lenguage. Recently I developed a Invoice Generator and now I am creating an application to schedule task.
 
-Here are some ideas to get you started:
+My values
+Safety and trust
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Begginers Minset and Curiosity
+
+Enthusiastic and cautious
+
+Fun fact
+I usually memorize parts of movies and moments that I find funny
+
+Get in touch
+twitter: https://twitter.com/vpalonsog
+
+likedin: https://www.linkedin.com/in/vpalonso/
