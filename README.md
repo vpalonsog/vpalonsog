@@ -1,7 +1,6 @@
-#  Vanessa Paola -@vpalonsog
+#👋 Hi there, I am Vanessa
 
-
-Hi there 👋. Iam Frontend Developer and Platzi Master student.  Currently Im developing Projects using Javascript Lenguage. Recently I developed a Invoice Generator and now I am creating an application to schedule task. 
+I am Frontend Developer and Platzi Master student.  Currently Im developing Projects using Javascript Lenguage. Recently I developed a Invoice Generator and now I am creating an application to schedule task
 
 
 ## Some technologies I use
