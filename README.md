@@ -4,7 +4,7 @@ I am Frontend Developer and Platzi Master student.  Currently Im developing Proj
 
 
 ## Some technologies I use
-HTML5 | CSS3 | JAVASCRIPT
+HTML5 | CSS3 | JAVASCRIPT | REACTJS
 
 ## My values
 
